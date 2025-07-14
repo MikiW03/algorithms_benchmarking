@@ -1,0 +1,216 @@
+Sub PodzielTabeleIZrobStatystykiDlaWieluArkuszy()
+    Dim wsSrc As Worksheet, wsOut As Worksheet, wsZbiorcze As Worksheet
+    Dim ws As Worksheet
+    Dim lastRow As Long, lastCol As Long
+    Dim groupColName As String, valueColName As String
+    Dim groupColIndex As Long, valueColIndex As Long
+    Dim dict As Object, key
+    Dim i As Long, colOffset As Long
+    Dim arrFiltered(), allValues() As Double
+    Dim statsLabels As Variant
+    Dim statsValues(1 To 5) As Double
+    Dim totalCount As Long
+    Dim newSheetName As String
+    Dim zbiorczeRow As Long
+
+    groupColName = "Size"
+    valueColName = "Time"
+
+    Application.ScreenUpdating = False
+    Application.DisplayAlerts = False
+
+    ' Przygotuj arkusz zbiorczy
+    On Error Resume Next
+    Worksheets("_statystyki").Delete
+    On Error GoTo 0
+    Set wsZbiorcze = Worksheets.Add(After:=Sheets(Sheets.Count))
+    wsZbiorcze.Name = "_statystyki"
+    
+    ' Nagłówki arkusza zbiorczego
+    statsLabels = Array("Arkusz", "Średnia", "Min", "Max", "Mediana", "Odch. std")
+    For i = 0 To UBound(statsLabels)
+        wsZbiorcze.Cells(1, i + 1).Value = statsLabels(i)
+        wsZbiorcze.Cells(1, i + 1).Font.Bold = True
+    Next i
+    zbiorczeRow = 2
+
+    ' Iteracja po wszystkich arkuszach
+    For Each ws In ThisWorkbook.Worksheets
+        If Left(ws.Name, 1) <> "_" And ws.Name <> "_statystyki" Then
+            Set wsSrc = ws
+            groupColIndex = 0
+            valueColIndex = 0
+
+            newSheetName = "_" & wsSrc.Name
+            On Error Resume Next: ThisWorkbook.Worksheets(newSheetName).Delete: On Error GoTo 0
+
+            lastRow = wsSrc.Cells(wsSrc.Rows.Count, 1).End(xlUp).Row
+            lastCol = wsSrc.Cells(1, wsSrc.Columns.Count).End(xlToLeft).Column
+
+            Dim r As Long, c As Long, naCount As Long
+            For c = lastCol To 1 Step -1
+                naCount = 0
+                For r = 2 To lastRow
+                    If Trim(wsSrc.Cells(r, c).Text) = "N/A" Then naCount = naCount + 1
+                Next r
+                If naCount = lastRow - 1 Then wsSrc.Columns(c).Delete
+            Next c
+
+            lastCol = wsSrc.Cells(1, wsSrc.Columns.Count).End(xlToLeft).Column
+            lastRow = wsSrc.Cells(wsSrc.Rows.Count, 1).End(xlUp).Row
+
+            For i = 1 To lastCol
+                If wsSrc.Cells(1, i).Value = groupColName Then groupColIndex = i
+                If wsSrc.Cells(1, i).Value = valueColName Then valueColIndex = i
+            Next i
+
+            If groupColIndex = 0 Or valueColIndex = 0 Then
+                MsgBox "W arkuszu '" & wsSrc.Name & "' nie znaleziono wymaganych kolumn.", vbExclamation
+                GoTo NextSheet
+            End If
+
+            Set dict = CreateObject("Scripting.Dictionary")
+            ReDim allValues(1 To lastRow - 1)
+            totalCount = 0
+
+            For i = 2 To lastRow
+                key = wsSrc.Cells(i, groupColIndex).Value
+                If Not dict.exists(key) Then dict.Add key, New Collection
+                dict(key).Add wsSrc.Range(wsSrc.Cells(i, 1), wsSrc.Cells(i, lastCol)).Value
+                totalCount = totalCount + 1
+                allValues(totalCount) = wsSrc.Cells(i, valueColIndex).Value
+            Next i
+
+            Set wsOut = Worksheets.Add
+            wsOut.Name = newSheetName
+
+            colOffset = 1
+
+            For Each key In dict.Keys
+                Dim rowsInGroup As Long: rowsInGroup = dict(key).Count
+                Dim tblStartRow As Long: tblStartRow = 4
+            
+                wsOut.Cells(tblStartRow, colOffset).Resize(1, lastCol).Value = wsSrc.Range(wsSrc.Cells(1, 1), wsSrc.Cells(1, lastCol)).Value
+                wsOut.Range(wsOut.Cells(tblStartRow, colOffset), wsOut.Cells(tblStartRow, colOffset + lastCol - 1)).Font.Bold = True
+            
+                For i = 1 To rowsInGroup
+                    wsOut.Cells(tblStartRow + i, colOffset).Resize(1, lastCol).Value = dict(key)(i)
+                Next i
+            
+                ReDim arrFiltered(1 To rowsInGroup)
+                For i = 1 To rowsInGroup
+                    arrFiltered(i) = dict(key)(i)(1, valueColIndex)
+                Next i
+            
+                statsValues(1) = Application.WorksheetFunction.Average(arrFiltered)
+                statsValues(2) = Application.WorksheetFunction.Min(arrFiltered)
+                statsValues(3) = Application.WorksheetFunction.Max(arrFiltered)
+                statsValues(4) = Application.WorksheetFunction.Median(arrFiltered)
+                statsValues(5) = Application.WorksheetFunction.StDev(arrFiltered)
+            
+                ' Zapisz do arkusza wynikowego
+                For i = 0 To 4
+                    wsOut.Cells(1, colOffset + i).Value = statsLabels(i + 1)
+                    wsOut.Cells(2, colOffset + i).Value = Round(statsValues(i + 1), 2)
+                    wsOut.Cells(1, colOffset + i).Font.Bold = True
+                    wsOut.Cells(2, colOffset + i).Font.Bold = True
+                    wsOut.Cells(2, colOffset + i).Interior.Color = RGB(230, 230, 250)
+                Next i
+            
+                ' Zapisz do zbiorczego
+                wsZbiorcze.Cells(zbiorczeRow, 1).Value = wsSrc.Name & "_" & key
+                For i = 1 To 5
+                    wsZbiorcze.Cells(zbiorczeRow, i + 1).Value = Round(statsValues(i), 2)
+                Next i
+                zbiorczeRow = zbiorczeRow + 1
+                             
+            
+                ' Obramowania
+                With wsOut.Range(wsOut.Cells(tblStartRow, colOffset), wsOut.Cells(tblStartRow + rowsInGroup, colOffset + lastCol - 1)).Borders
+                    .LineStyle = xlContinuous
+                    .Weight = xlThin
+                End With
+                With wsOut.Range(wsOut.Cells(tblStartRow, colOffset), wsOut.Cells(tblStartRow, colOffset + lastCol - 1)).Borders
+                    .LineStyle = xlContinuous
+                    .Weight = xlMedium
+                End With
+            
+                wsOut.Range(wsOut.Cells(1, colOffset), wsOut.Cells(tblStartRow + rowsInGroup, colOffset + lastCol - 1)).Columns.AutoFit
+            
+                colOffset = colOffset + lastCol + 1
+            Next key
+
+
+            ' Ogólne statystyki
+            statsValues(1) = Application.WorksheetFunction.Average(allValues)
+            statsValues(2) = Application.WorksheetFunction.Min(allValues)
+            statsValues(3) = Application.WorksheetFunction.Max(allValues)
+            statsValues(4) = Application.WorksheetFunction.Median(allValues)
+            statsValues(5) = Application.WorksheetFunction.StDev(allValues)
+
+            ' Dopisanie do arkusza zbiorczego
+            wsZbiorcze.Cells(zbiorczeRow, 1).Value = wsSrc.Name
+            For i = 1 To 5
+                wsZbiorcze.Cells(zbiorczeRow, i + 1).Value = Round(statsValues(i), 2)
+            Next i
+            zbiorczeRow = zbiorczeRow + 1
+
+NextSheet:
+        End If
+    Next ws
+
+    wsZbiorcze.Columns.AutoFit
+    Call SformatujZbiorczeStatystyki
+
+    Application.DisplayAlerts = True
+    Application.ScreenUpdating = True
+
+    MsgBox "Gotowe! Wszystkie arkusze przetworzone i statystyki zapisane.", vbInformation
+End Sub
+
+Sub SformatujZbiorczeStatystyki()
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Worksheets("_statystyki")
+
+    Dim lastRow As Long
+    lastRow = ws.Cells(ws.Rows.Count, 1).End(xlUp).Row
+
+    ' Sortuj alfabetycznie po kolumnie A
+    ws.Range("A1:F" & lastRow).Sort Key1:=ws.Range("A2"), Order1:=xlAscending, Header:=xlYes
+
+    Dim i As Long
+    Dim currentGroupName As String
+    Dim colorToggle As Boolean: colorToggle = False
+
+    i = 2
+    Do While i <= lastRow
+        Dim fullName As String: fullName = ws.Cells(i, 1).Value
+        If fullName = "" Then Exit Do
+
+        ' Sprawdź: czy to początek nowej grupy (czyli NIE zaczyna się od currentGroupName & "_")
+        If Not fullName Like currentGroupName & "_*" Then
+            ' Nowa grupa — wiersz zbiorczy
+            currentGroupName = fullName
+            colorToggle = Not colorToggle
+
+            With ws.Range(ws.Cells(i, 1), ws.Cells(i, 6))
+                .Font.Bold = True
+                .Interior.Color = RGB(200, 200, 255)
+            End With
+        Else
+            ' To wpis cząstkowy — koloruj tło w zależności od toggle
+            With ws.Range(ws.Cells(i, 1), ws.Cells(i, 6))
+                If colorToggle Then
+                    .Interior.Color = RGB(245, 245, 245)
+                Else
+                    .Interior.Color = RGB(230, 255, 230)
+                End If
+            End With
+        End If
+
+        i = i + 1
+    Loop
+
+    ws.Columns("A:F").AutoFit
+End Sub
+

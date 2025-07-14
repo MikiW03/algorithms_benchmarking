@@ -1,0 +1,501 @@
+Algorithm,DataType,Size,Distribution,Time,Comparisons,Swaps,Pivot,Gaps,DrunkLevel
+Shell Sort,int,50000,random,20,1610063,1484403,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1721643,1596505,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1644385,1517688,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1699130,1573502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1572203,1444343,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,19,1553837,1427099,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1602467,1475847,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1677267,1552882,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1623935,1498460,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1634905,1508694,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1694955,1570553,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1704802,1580301,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1599301,1472352,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1611204,1485092,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1672908,1546508,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1706761,1580912,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1633778,1508028,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1687872,1562648,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1624890,1499233,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1708399,1583470,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1614326,1487728,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1666581,1541312,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1628765,1502688,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1722345,1598808,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1570271,1444416,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1659609,1534406,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1675389,1549939,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1718105,1593066,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1707912,1582497,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,22,1812088,1689383,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1657521,1532401,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1608520,1481805,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1638479,1511599,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1692639,1567263,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1619480,1492810,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1666461,1540687,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,22,1761923,1637909,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1665467,1541144,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1611983,1485111,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1578701,1452160,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1683278,1557744,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,22,1770850,1646693,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1663940,1538113,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1655658,1530444,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1604109,1475977,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1650589,1523890,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1699271,1575292,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1638301,1511405,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1613476,1487864,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1696041,1571190,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1676371,1551281,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1704989,1578876,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1679413,1552941,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1674025,1549188,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1749666,1625625,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1641560,1515099,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1663388,1538332,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1605387,1478840,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1655193,1529197,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1710579,1585529,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1673266,1547068,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1735807,1611383,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1651524,1525934,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1652412,1526314,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1580999,1454884,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1614334,1487431,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1688812,1563509,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1668052,1542883,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,22,1745054,1619814,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1608641,1481668,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1682454,1557366,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1632299,1506159,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1744456,1618893,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1585407,1457693,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1690587,1565074,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1637864,1510962,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1657711,1531617,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1662341,1536260,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1577688,1450802,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1584210,1457942,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1625667,1498757,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1646691,1521895,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,22,1743361,1618328,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1746215,1622525,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1676150,1551468,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1734041,1608432,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1689962,1565892,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1640198,1514852,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1698428,1573348,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1605342,1478423,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1639221,1512852,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1725113,1600817,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1633671,1508326,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1665861,1542103,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,22,1706819,1582526,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1686929,1562959,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1700385,1575612,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,21,1617039,1490989,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,23,1695584,1571329,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,random,20,1625301,1499829,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1208141,949237,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1229848,971654,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1266510,1008406,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1171468,912482,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1148042,888579,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1178905,918853,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1211204,951817,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1227261,968618,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1163631,903883,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1228758,970065,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1151986,891467,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1186653,926886,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1193449,934889,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1203813,944184,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1229105,970464,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1205710,946377,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1160426,900087,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1205860,946864,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1186473,927169,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1197686,937843,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1180739,920992,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1199173,940047,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1250830,991770,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1188330,928893,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1195899,936462,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1192273,933815,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1209509,950903,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1207620,949055,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1219616,960770,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1222054,962998,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,15,1299232,1041008,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1175084,915226,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1224510,966095,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1194048,934693,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1205955,946258,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1221078,962665,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1228572,969204,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1209852,951050,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1176931,917464,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1213193,954290,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1182126,921992,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1222423,963992,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1208078,949492,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1196672,937286,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1218843,959746,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1199705,940434,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1160519,900438,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,15,1279673,1021094,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1249534,991203,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1163072,902536,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1259720,1000782,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1197455,938027,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1231386,972493,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1248104,990097,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1231188,972847,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1173144,912919,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1170932,911152,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1165966,906214,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1197858,937989,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,15,1288190,1030066,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1173176,912765,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1180962,922207,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1165473,905564,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,15,1279689,1022548,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1152570,891509,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1214471,955853,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1131634,870852,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,15,1182363,923014,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1179094,918918,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1211151,951812,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1219268,959502,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1205390,945998,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1199099,939840,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1216956,958589,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1176231,915833,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1179355,920053,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1188652,928585,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1188875,929950,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1200898,942243,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1212105,952599,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1158732,899112,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1211184,952155,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1165532,905635,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1226169,967652,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1188814,929125,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1165354,904884,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1219024,959015,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,15,1286177,1028053,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1178695,919204,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1223808,964714,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1224161,965267,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1269029,1011671,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1179754,920352,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1192297,931811,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1202768,943252,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1184512,924425,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1216141,958092,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,13,1159842,899047,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1242889,984314,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_33%,14,1209727,951343,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,760447,395316,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,779908,414922,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,786784,421890,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,751004,385508,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,765565,399954,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,774704,409669,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,781510,417106,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,778905,413741,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,768389,402824,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,759893,394060,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,785278,420271,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,763341,397743,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,782834,418028,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,780271,415411,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,767970,402998,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,757945,392418,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,789987,425103,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,775056,410179,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,762725,397393,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,758540,393465,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,761433,396138,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,764648,399810,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,798550,434242,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,784970,419818,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,783917,419041,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,767666,402982,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,779337,414382,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,761008,395562,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,777573,412709,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,791512,427104,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,790509,425581,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,769096,404238,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,756748,391572,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,759820,394747,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,781841,417009,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,765632,400432,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,755594,389959,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,772822,408177,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,776387,411231,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,758524,393033,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,818707,454187,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,764740,399528,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,768446,402769,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,768256,403311,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,779459,414804,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,761727,396168,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,763407,398132,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,760521,395499,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,784531,419678,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,773635,409110,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,775537,410656,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,779807,414899,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,742048,376035,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,774954,409913,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,769146,403950,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,769254,404499,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,758052,392153,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,786775,422331,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,762131,396890,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,758090,392610,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,764648,399172,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,769503,404339,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,773807,409095,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,797985,433432,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,781034,416825,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,778990,414021,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,804254,439846,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,790889,426120,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,755372,389915,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,756807,391457,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,778721,413410,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,758700,393135,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,774736,409868,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,760676,395668,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,761303,395538,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,767526,402497,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,772440,407303,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,775905,410997,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,778203,413326,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,772040,407150,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,766425,401388,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,763031,397594,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,754285,388777,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,779254,414302,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,756755,391136,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,784957,419964,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,770369,405368,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,770391,405796,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,771761,406519,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,7,757438,391904,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,784929,419493,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,794245,429765,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,771003,405610,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,768884,403973,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,753345,387943,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,769813,404972,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,750176,384296,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,766874,401252,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,760995,395712,N/A,Knuth (3k+1),N/A
+Shell Sort,int,50000,sorted_66%,8,764244,398685,N/A,Knuth (3k+1),N/A

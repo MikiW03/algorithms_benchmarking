@@ -1,0 +1,56 @@
+Sub ImportCSVFilesToSheets_ByFileName()
+    Dim folderPath As String
+    Dim fileName As String
+    Dim ws As Worksheet
+    Dim csvSheet As Worksheet
+    Dim sheetName As String
+
+    ' Wybór folderu
+    With Application.FileDialog(msoFileDialogFolderPicker)
+        .Title = "Wybierz folder z plikami CSV"
+        If .Show <> -1 Then Exit Sub
+        folderPath = .SelectedItems(1) & "\"
+    End With
+
+    Application.ScreenUpdating = False
+
+    ' Przechodzimy przez każdy plik CSV w folderze
+    fileName = Dir(folderPath & "*.csv")
+    Do While fileName <> ""
+        ' Generujemy nazwę arkusza na podstawie nazwy pliku
+        sheetName = CleanSheetName(Replace(fileName, ".csv", "", , , vbTextCompare))
+        
+        ' Dodajemy nowy arkusz i importujemy dane
+        Set csvSheet = Sheets.Add(After:=Sheets(Sheets.Count))
+        csvSheet.Name = sheetName
+        
+        With csvSheet.QueryTables.Add(Connection:="TEXT;" & folderPath & fileName, Destination:=csvSheet.Range("A1"))
+            .TextFileParseType = xlDelimited
+            .TextFileCommaDelimiter = True
+            .TextFilePlatform = xlWindows
+            .Refresh BackgroundQuery:=False
+        End With
+
+        fileName = Dir
+    Loop
+
+    Application.ScreenUpdating = True
+    MsgBox "Import zakończony!", vbInformation
+End Sub
+
+Function CleanSheetName(sheetName As String) As String
+    ' Usuwa niedozwolone znaki i skraca do 31 znaków
+    Dim invalidChars As Variant: invalidChars = Array("/", "\", "*", "[", "]", ":", "?", "'")
+    Dim i As Integer
+
+    For i = LBound(invalidChars) To UBound(invalidChars)
+        sheetName = Replace(sheetName, invalidChars(i), "_")
+    Next i
+
+    If Len(sheetName) > 31 Then
+        sheetName = Left(sheetName, 31)
+    End If
+
+    CleanSheetName = sheetName
+End Function
+

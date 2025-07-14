@@ -1,0 +1,501 @@
+Algorithm,DataType,Size,Distribution,Time,Comparisons,Swaps,Pivot,Gaps,DrunkLevel
+Quick Sort,int,10000,random,1,154630,89070,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,149236,82952,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,154210,89703,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,148483,84853,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,163606,97596,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,166744,92192,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,152113,91130,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153033,87691,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161045,101647,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,167170,93286,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,148238,78382,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,160339,92087,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,155231,89757,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151606,92876,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,155117,83172,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,167726,99223,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,165578,94267,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151851,84951,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151582,82949,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161437,89388,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,169774,102980,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153974,93204,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,160844,92941,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,159068,86061,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,152594,83031,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,157013,87769,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153989,85829,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,146743,85942,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,162740,85423,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,149692,90485,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,166007,97435,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153244,92358,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,160547,91567,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,148978,85344,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,155864,85714,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,152940,87708,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,159155,83649,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153552,92930,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,147992,84072,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,149581,80968,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151334,83864,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,169237,109469,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,149267,77171,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,150007,83225,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,157687,99392,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161048,87351,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,156981,86890,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153858,84064,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151145,83119,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,165611,92843,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,159366,83787,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,149733,79805,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,155656,91710,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,156668,95135,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,159656,92696,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,155716,93056,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,157100,86970,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,156891,93911,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,158212,99497,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,165976,82232,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,150729,84916,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,147250,82216,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,157669,87687,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,165511,87434,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,156647,90725,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151121,91258,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161027,92167,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,154025,99473,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,157246,97043,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153750,93253,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151114,92357,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,168464,88102,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,156033,86491,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,164463,98045,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,154326,95781,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161043,90193,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,160307,94538,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,169130,104100,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,144317,89760,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151396,88214,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,160111,96188,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151054,85303,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153644,97015,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,162273,94501,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,167100,96049,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,149517,90940,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151387,89995,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,151912,91557,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,162618,94203,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,174870,92739,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,147337,82558,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161024,95553,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,161365,92727,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,157133,93074,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,166760,84973,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,154453,90805,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,149946,88514,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,159656,85563,Random element,N/A,N/A
+Quick Sort,int,10000,random,2,163492,94667,Random element,N/A,N/A
+Quick Sort,int,10000,random,1,153137,94796,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,148076,89198,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,157500,95361,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152965,87850,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,186707,115068,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149478,87641,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,154861,98361,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,148562,88951,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152531,82194,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,155103,86472,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,162044,75581,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151427,87269,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,157066,79715,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,154292,86642,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,2,157124,93293,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156202,88068,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149620,85444,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,159318,96811,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151772,90201,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149704,83702,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,160193,82061,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,160168,93622,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,158909,84188,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152812,90874,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156622,92213,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,159813,94781,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,160188,83905,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,163121,92419,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,159724,85512,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,160134,93466,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156764,88386,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152131,84473,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,158307,89688,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152937,88768,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,150342,83497,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,166595,84681,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,165779,97943,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,158441,84701,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151107,82332,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,155500,82581,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,157656,94511,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,147582,83751,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,154129,93255,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,150589,82184,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,147303,86499,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,160126,93272,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,150394,84565,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151751,82037,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152069,87959,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156177,88949,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,147024,82636,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,153787,86694,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,154856,89557,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156366,86276,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,155467,97234,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,147326,86467,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,154993,93697,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149538,85474,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,166571,103976,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,150899,93450,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,164928,89755,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,154646,81595,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151790,80245,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,159301,102767,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,148329,77264,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,153130,83865,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,153228,89735,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,164847,100829,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,150243,88654,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,152062,87710,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149729,87720,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149096,82801,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,146733,83331,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,173298,96029,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,144872,78649,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,162046,88693,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,153925,79428,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156452,83036,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,157721,94235,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,150887,93062,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151981,82092,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151490,86680,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,146801,80372,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,160428,90637,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,157636,96760,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,169340,91924,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156432,88783,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,148628,83701,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,153931,78925,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,156196,80161,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,163171,81677,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,153358,90692,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,148698,88668,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,168062,97929,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,147918,78158,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151753,92230,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,149699,79410,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,159076,87626,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,165760,91059,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,163746,93604,Random element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,1,151555,90886,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,2,152920,91786,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150947,85725,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149603,89812,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,172306,85982,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,148749,85363,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,159244,88940,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,151603,85676,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154783,85177,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,147492,82959,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,147582,83964,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,175662,102338,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,158407,84229,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156513,84821,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150247,86671,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150261,88448,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,160202,81783,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150349,80519,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150506,90981,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153668,84518,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156629,82658,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154534,91700,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,158804,96504,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,158868,81277,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,152704,93802,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,161146,97744,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,167628,99141,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154722,94787,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,155457,98187,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149719,88505,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154712,81100,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149782,88981,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153038,87501,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149583,84594,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153052,90015,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,160203,94789,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,165654,105238,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,161794,87380,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149519,89935,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153705,85736,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,160256,89107,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150761,86101,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154437,85599,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149563,79381,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150618,79762,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,169077,99328,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153544,88471,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150984,85778,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150342,88721,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,160569,85249,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,175124,100840,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154487,88202,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153670,91784,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156401,88009,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156070,92198,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,151212,85857,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,155681,99802,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,155740,86678,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,151800,83834,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,163125,87246,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,159539,95844,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,158786,95681,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150934,85664,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,160711,95047,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,151347,88662,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,161722,94164,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,152349,94527,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,159832,83720,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,157941,98707,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,158466,80493,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,168688,84561,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150940,90848,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,146364,91484,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156051,98069,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,148391,90696,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,152483,93950,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156877,90341,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,172342,89274,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,148253,85254,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,146814,82342,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,155169,85123,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,153285,81521,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149098,84486,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150644,86857,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,152997,90341,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,159007,100820,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,166616,81118,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156222,88260,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,164333,90460,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,150842,85720,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,155313,88253,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,143435,83005,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,157836,96194,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,165895,89194,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,156206,92611,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,163894,101736,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,172973,100334,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,166838,90458,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,154012,87703,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,175860,106820,Random element,N/A,N/A
+Quick Sort,int,10000,sorted descending,1,149480,88520,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155037,85529,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,162975,93470,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,152531,94421,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154407,83934,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,146060,89171,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,168702,93401,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154739,85056,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,148600,79661,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,158191,89643,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154957,83561,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,167320,85952,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,150514,84598,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,163216,88061,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,162576,90993,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,163390,89671,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,160936,93832,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,171779,104303,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154609,88565,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,152878,89425,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,158570,87587,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,158486,97661,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,152368,90941,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,160244,92493,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,146672,85262,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155027,93866,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,156914,100082,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,161971,88717,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,161396,87661,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,147274,92755,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,148738,86836,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,162788,91553,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,156904,96069,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157760,88487,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,152078,85221,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154204,93627,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,147450,88432,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155155,95845,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,163501,98511,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,147373,81886,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157898,88726,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,159479,94627,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157846,100707,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155806,83040,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155360,89837,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,144710,83120,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,145184,85541,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157323,90564,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,165986,95454,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,150697,87025,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157026,92209,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,163363,93836,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,159904,97163,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,151424,83970,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,148927,92969,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155782,94733,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,147885,89128,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,153283,85506,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,149759,92860,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,159017,85657,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,158945,86503,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,153832,89143,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,150570,87036,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157326,93372,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,165728,101190,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,152220,88067,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,156664,88835,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,169331,92791,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157018,81318,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,153704,86004,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154161,85934,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,144154,84592,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,161026,87293,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,165157,90882,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,150631,87479,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,148438,85915,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,144026,81294,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,155582,96966,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,170855,89977,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,151802,94509,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,146664,87634,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,152102,89171,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,156004,85485,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157165,98678,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,147824,91470,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,150006,87638,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,169662,89724,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,146824,86938,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,145690,89729,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,167385,95429,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,149844,89931,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157010,87133,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,159562,81971,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154256,95235,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,154399,87153,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157221,92709,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,157127,87365,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,160605,101201,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,159363,88676,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,149969,85929,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,1,149502,86660,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150932,86337,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,147901,88931,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149862,87931,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,159053,85880,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,154205,85139,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153201,88819,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,146664,83454,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156412,83278,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153731,90731,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148621,86463,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156701,81886,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,165824,81124,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153977,83736,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,167854,98503,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149006,89537,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,175675,84548,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,158424,89182,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149579,85881,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153383,85296,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150305,96142,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,155375,94550,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,151344,91019,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,162817,82002,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,147180,84331,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,155055,96814,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,154604,81748,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,155845,88394,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,154442,87241,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,160187,82775,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149897,89810,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,152637,75878,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153937,82496,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,166438,88089,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149412,92460,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,143741,82329,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156421,90768,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153639,86213,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,159553,92528,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153576,95092,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156820,92956,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,165850,85006,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,162067,87879,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,145686,79731,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,168228,104612,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150752,86113,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156606,92627,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,160229,84109,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,155307,93307,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,168312,99580,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,155230,97343,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,147014,86137,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,151552,83925,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156030,85687,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,154061,82744,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,165420,93002,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153941,86849,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,151026,86143,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,147976,83126,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,157278,97113,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148658,81480,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,161197,96012,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,159351,102106,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,159502,93261,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,145218,84965,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,164163,84918,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,154946,81422,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,152240,86107,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,152458,96963,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148619,84951,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150786,90165,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150060,82944,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156601,88324,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,147617,79714,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148463,86313,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,162205,95690,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150402,78659,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156713,91953,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149552,79758,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,172473,98501,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,178220,114355,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148774,86580,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149985,80168,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150725,82376,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,145964,91519,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153982,93165,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153932,79130,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,150234,92413,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148428,85483,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,148597,87601,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,155406,89452,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156690,90768,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,170705,107604,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,149669,84096,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,153954,86184,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,163177,100216,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,152678,82602,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,175960,101026,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,147868,84871,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,156798,94712,Random element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,1,169271,94832,Random element,N/A,N/A

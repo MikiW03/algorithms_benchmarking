@@ -1,0 +1,501 @@
+Algorithm,DataType,Size,Distribution,Time,Comparisons,Swaps,Pivot,Gaps,DrunkLevel
+Insertion Sort,int,50000,random,6379,629381910,629331923,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6372,626395224,626345239,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6322,620584163,620534175,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6389,625924681,625874691,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6380,623991838,623941849,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6373,627435820,627385829,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6380,624173306,624123315,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6364,623359295,623309309,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6355,626203532,626153548,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6388,624873042,624823051,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6391,625279546,625229555,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6400,623707020,623657031,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6414,625857260,625807274,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6587,625517852,625467865,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6413,626686082,626636096,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6334,623782387,623732394,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6413,626916774,626866781,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6298,622223220,622173230,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6394,626157741,626107754,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6361,622089025,622039037,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6394,625224594,625174602,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6422,627914050,627864067,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6388,625850548,625800559,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6426,628916899,628866918,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6367,623786780,623736791,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6335,623976569,623926579,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6364,625682401,625632408,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6394,625597324,625547327,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6383,626242278,626192288,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6392,625310947,625260958,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6347,628052630,628002639,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6339,624463927,624413936,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6363,624956378,624906392,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6362,623049449,622999458,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6378,623424287,623374293,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6379,624146942,624096954,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6372,622853757,622803769,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6370,623120237,623070250,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6379,625787441,625737452,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6372,622547293,622497302,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6354,626888556,626838567,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6509,625011360,624961372,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6335,622452333,622402338,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6386,624827546,624777562,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6392,625989775,625939784,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6398,627304967,627254980,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6359,625180788,625130801,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6335,622631234,622581249,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6362,624510510,624460519,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6352,626635289,626585299,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6373,624255139,624205154,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6378,623047115,622997121,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6358,622469185,622419198,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6367,624693191,624643201,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6311,624224664,624174671,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6387,625521824,625471836,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6379,626046471,625996483,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6310,625517314,625467327,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6413,627266819,627216833,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6492,623802027,623752037,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6408,626774413,626724423,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6352,625537883,625487904,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6356,622246178,622196191,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6377,627547120,627497130,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6400,625737477,625687487,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6367,624808689,624758698,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6407,627296023,627246036,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6346,620849226,620799235,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6366,626185203,626135213,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6358,624518918,624468930,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6380,626226743,626176758,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6319,623930553,623880564,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6352,626685628,626635636,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6414,628177024,628127031,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6362,625894448,625844460,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6398,624918151,624868162,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6419,629516427,629466439,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6388,625269629,625219641,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6415,627320941,627270951,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6449,627673169,627623180,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6368,625845042,625795058,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6390,626293303,626243311,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6373,625372845,625322859,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6367,624538136,624488144,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6395,626097668,626047677,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6398,626114861,626064876,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6391,629205020,629155034,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6308,625050110,625000123,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6395,627183679,627133693,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6405,626779335,626729348,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6407,628968778,628918791,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6373,622973406,622923418,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6306,624528171,624478186,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6402,626847528,626797541,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6505,624654005,624604019,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6389,624987374,624937389,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6376,624427396,624377405,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6390,624863235,624813245,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6384,624654387,624604398,N/A,N/A,N/A
+Insertion Sort,int,50000,random,6392,626133290,626083300,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted ascending,0,49999,0,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12789,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12781,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12761,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12775,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12723,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12739,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12783,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12740,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12781,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12730,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12765,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12756,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12788,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12789,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12782,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12747,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12778,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12775,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12761,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12676,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12654,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12635,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12755,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12733,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12760,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12776,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12776,1249975000,1249974998,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12754,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12789,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12768,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12767,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12789,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12773,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12725,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12775,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12640,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12726,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12747,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12774,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12777,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12765,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12647,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12778,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12691,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12745,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12776,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12825,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12773,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12751,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12770,1249975000,1249974996,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12647,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12713,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12786,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12732,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12825,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12809,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12927,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12920,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12850,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,13023,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12900,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,13043,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,13187,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12836,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12737,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12770,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12661,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12725,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12754,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12796,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12702,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12721,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12782,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12789,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12690,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12680,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12738,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12690,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12732,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12785,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12795,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12793,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12777,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12759,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12760,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12697,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12717,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12702,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12716,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12787,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12775,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12777,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12784,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12731,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12768,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12788,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12761,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12785,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12702,1249975000,1249975000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted descending,12787,1249975000,1249974999,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2739,268535375,268485376,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2740,267782559,267732560,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2761,269130202,269080203,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2754,269146021,269096022,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2771,271011003,270961004,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2761,268747486,268697487,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2756,270575547,270525548,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2753,270793311,270743312,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2777,271389485,271339486,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2760,269515160,269465161,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2728,269888880,269838881,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2744,268138177,268088178,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2727,269665365,269615366,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2743,269732317,269682318,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2725,269433058,269383059,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2761,270539883,270489884,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2756,269388962,269338963,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2758,269854825,269804826,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2755,269589743,269539744,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2754,269614755,269564756,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2757,271904369,271854370,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2759,270837728,270787729,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2728,270113229,270063230,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2748,268605941,268555942,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2736,271131999,271082000,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2715,269332840,269282841,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2783,272056588,272006589,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2743,268974858,268924859,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2847,272311016,272261017,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2767,270432262,270382263,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2745,269230413,269180414,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2745,270283143,270233144,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2755,270571788,270521789,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2787,270991874,270941875,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2771,269962289,269912290,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2763,270182923,270132924,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2728,268408739,268358740,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2742,269530336,269480337,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2729,268216982,268166983,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2762,271492696,271442697,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2746,270748187,270698188,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2740,270024184,269974185,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2749,269592219,269542220,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2738,269578212,269528213,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2781,271933613,271883614,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2744,269665571,269615572,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2772,271014299,270964300,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2751,269059768,269009769,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2743,269508079,269458080,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2758,270263230,270213231,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2739,267816256,267766257,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2733,268607209,268557210,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2766,270231161,270181162,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2755,270271233,270221234,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2753,269113038,269063039,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2755,269422409,269372410,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2758,269620872,269570873,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2730,268444132,268394133,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2766,270156966,270106967,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2768,269955694,269905695,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2744,269226177,269176178,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2758,269579261,269529262,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2737,267595822,267545823,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2765,269788686,269738687,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2829,269916585,269866586,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2763,270709787,270659788,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2768,270746344,270696345,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2753,270332167,270282168,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2760,270596901,270546902,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2741,268146115,268096116,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2747,268980136,268930137,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2745,270714458,270664459,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2777,270668053,270618054,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2769,270819297,270769298,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2757,270089831,270039832,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2734,267616899,267566900,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2754,269489972,269439973,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2765,270147628,270097629,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2825,270110279,270060280,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2739,269377749,269327750,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2755,270130309,270080310,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2760,270039868,269989869,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2765,271020777,270970778,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2730,269450746,269400747,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2761,270015562,269965563,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2767,271039686,270989687,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2744,269101166,269051167,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2742,269015475,268965476,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2762,269966657,269916658,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2752,269328963,269278964,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2742,268601436,268551437,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2766,271354135,271304136,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2758,270132257,270082258,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2747,268463869,268413870,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2763,270687615,270637616,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2758,269521514,269471515,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2753,269187217,269137218,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2762,269943484,269893485,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2756,269698387,269648388,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_33%,2760,270182416,270132417,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,713,69427898,69377899,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,703,69343368,69293369,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,714,69915195,69865196,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,702,68773509,68723510,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69545165,69495166,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,707,69537954,69487955,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,702,69236885,69186886,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,714,69477785,69427786,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,707,69040896,68990897,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69301755,69251756,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,716,69858874,69808875,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69393823,69343824,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,717,70090323,70040324,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69337045,69287046,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69802471,69752472,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69665419,69615420,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,708,69125753,69075754,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,718,70125138,70075139,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69752897,69702898,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69369881,69319882,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,714,69906266,69856267,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,699,69011187,68961188,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,70163615,70113616,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,702,69028442,68978443,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69478098,69428099,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,69663969,69613970,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,716,69907410,69857411,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,707,69144827,69094828,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69281902,69231903,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,68791307,68741308,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,713,69661577,69611578,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,699,69158938,69108939,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,698,69050523,69000524,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,701,69504303,69454304,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,705,69445783,69395784,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69388990,69338991,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69517839,69467840,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,707,69188646,69138647,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69596897,69546898,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,713,69625277,69575278,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,717,70047639,69997640,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,708,69156005,69106006,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,709,69268604,69218605,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69795223,69745224,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,718,70170365,70120366,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69453594,69403595,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,708,69455138,69405139,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,713,69646037,69596038,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69812200,69762201,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,705,69376568,69326569,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69422823,69372824,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,709,69201651,69151652,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,721,70247471,70197472,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69359279,69309280,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,716,69950913,69900914,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69455270,69405271,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,708,69232218,69182219,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,705,69357899,69307900,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,713,69554780,69504781,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,706,68977234,68927235,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,719,70122360,70072361,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,707,68934393,68884394,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69830562,69780563,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69858402,69808403,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69350329,69300330,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,716,70188529,70138530,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,718,69600478,69550479,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,716,69888668,69838669,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69366429,69316430,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69543928,69493929,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,717,69825817,69775818,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69489075,69439076,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69692391,69642392,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,717,69968739,69918740,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69620784,69570785,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,705,69573002,69523003,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,711,69311260,69261261,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69748131,69698132,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,721,70393266,70343267,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69876581,69826582,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,718,69186347,69136348,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,712,69446236,69396237,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,705,68869421,68819422,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,714,69630785,69580786,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,68751987,68701988,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,714,69709301,69659302,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,69092545,69042546,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,68641859,68591860,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69805763,69755764,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,714,69775530,69725531,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,68733649,68683650,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,715,69918786,69868787,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,701,69256117,69206118,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69152997,69102998,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,710,69093688,69043689,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,706,69480072,69430073,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,709,69361906,69311907,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,706,69105216,69055217,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,704,69044925,68994926,N/A,N/A,N/A
+Insertion Sort,int,50000,sorted_66%,702,69471413,69421414,N/A,N/A,N/A

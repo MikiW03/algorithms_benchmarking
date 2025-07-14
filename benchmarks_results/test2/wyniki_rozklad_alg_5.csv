@@ -1,0 +1,501 @@
+Algorithm,DataType,Size,Distribution,Time,Comparisons,Swaps,Pivot,Gaps,DrunkLevel
+Drunk Shell Sort,int,50000,random,21,1677480,1552775,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1684503,1559745,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1745996,1621657,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1646915,1522198,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1661276,1535969,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1604727,1478792,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1618027,1492368,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1611158,1485598,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1672631,1546773,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1610670,1484307,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1622884,1497002,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1628556,1502373,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,19,1559548,1432185,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1676550,1551205,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1596292,1469893,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1724672,1600877,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1665214,1538011,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1673430,1548540,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1629783,1503795,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1639371,1514423,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1653052,1527178,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1574266,1447586,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1624712,1498108,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1615154,1489400,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1655243,1529701,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1662656,1537552,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1701630,1575296,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1572584,1444832,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1674709,1549458,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1615165,1488165,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1737897,1613297,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1801399,1677538,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1607446,1480693,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1668516,1544118,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1612494,1486590,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1623439,1496924,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1677813,1552607,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1681454,1556697,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1701090,1576780,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1572121,1444463,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1614437,1488883,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1653117,1526771,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1623464,1497625,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1674513,1548412,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1644303,1518166,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1633228,1506587,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1659095,1532938,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1674617,1550134,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1679818,1553937,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1689709,1564230,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1635807,1511346,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1657331,1531372,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1664468,1538921,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1632347,1507318,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1680550,1556534,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1609523,1482802,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1608611,1482249,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1699836,1575714,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1652701,1528391,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1665263,1539615,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1666681,1540960,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1620872,1495241,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1615532,1489265,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1691807,1565325,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1698652,1574320,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1600554,1474011,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1659912,1534155,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1650482,1525363,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1611480,1484026,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1645864,1519397,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1783998,1658597,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1706729,1582840,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1570552,1442767,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1762254,1638235,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1799538,1675021,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1677417,1552934,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1646286,1519584,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1677978,1551762,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1582766,1456702,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1624529,1498032,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1745278,1620727,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1626199,1499985,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1697571,1572661,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1665555,1539720,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1761106,1637400,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1754915,1631881,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1654213,1528835,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1668244,1542061,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1610984,1484612,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1631060,1505685,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,20,1615006,1489499,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1675219,1548689,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1661787,1535926,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1675687,1549789,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1748752,1625436,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1808652,1684968,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1738883,1615422,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,22,1779578,1654512,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1678302,1554715,N/A,N/A,0
+Drunk Shell Sort,int,50000,random,21,1682372,1556169,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted ascending,3,455719,0,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491503,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689217,491502,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted descending,7,689218,491504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1191354,931704,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1186947,928376,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1207732,948832,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1187271,928117,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1198826,939247,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1202032,943467,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1203128,943046,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1232509,973434,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1219085,958916,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1198298,939406,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,15,1287015,1028730,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1191622,932468,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1220851,962428,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1232330,973566,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1228851,969433,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1165356,905605,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,15,1232580,973796,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1164811,904921,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1187684,928130,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1178486,919092,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1181276,921921,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1151637,891896,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1252927,994513,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,15,1280859,1023637,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1234453,974990,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1254933,996410,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1194590,935747,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1182279,923673,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1183284,924102,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1229258,970463,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1212018,952287,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1172111,912646,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1189349,929850,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1235556,977011,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1183700,923849,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1179319,920219,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1160998,901119,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1181060,921616,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1201604,942297,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,15,1231785,972478,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1215185,956009,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1223996,965441,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1202595,943315,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1202939,943835,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1224525,965073,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1242863,984409,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1168695,908618,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1218232,960504,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1183106,923361,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1191867,932129,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1161017,901093,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1217754,959048,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1192581,933140,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1189263,929654,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1145458,884738,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1259760,1001664,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1184371,925041,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1231066,972738,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1218956,959652,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1196256,938978,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1167218,907359,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1195366,935848,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1172053,912169,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1168437,909465,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1219220,960473,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1175250,915958,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1178736,918420,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1196731,937274,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1163032,903226,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1164112,904421,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1213034,954876,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1221598,963282,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1264379,1006208,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1192095,933022,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1177961,917931,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1155348,895092,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1258542,1000076,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1223711,964309,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1193406,933699,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1198567,938891,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1180447,920644,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1188706,928733,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1234723,976682,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1193243,934002,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1163841,903175,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1206305,947266,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1225696,967001,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1248333,989075,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1196007,936516,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1218079,958028,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1200757,941269,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1158284,897477,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1169209,910083,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1191050,931082,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1240239,981598,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,13,1153971,892996,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,15,1285588,1028019,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,15,1229355,971339,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1210950,952542,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_33%,14,1194356,934916,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,766938,401945,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,775671,410985,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,7,742760,377022,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,771217,406469,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,788931,424473,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,753627,388709,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,811911,447724,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,766244,401056,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,764714,399445,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777649,412526,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,774651,409911,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,781284,416367,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,776595,411721,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,771902,406898,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,762521,397091,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,778758,414275,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,762615,397703,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777649,412741,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,772658,407669,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,789498,425484,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,749075,383465,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,756397,390936,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,774083,408989,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,765708,400797,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,763759,398428,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,785876,420539,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,769591,404107,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,765386,399999,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,794262,429939,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,766532,401467,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,757723,392246,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,782589,417677,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,764879,399539,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,771834,406343,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,7,747997,381832,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,792491,427566,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777025,411691,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,788834,424265,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,7,747182,381581,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777610,411970,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,762970,397889,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,782510,417624,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,767859,402823,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,769974,405196,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,764400,399199,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,762534,397554,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,809371,444795,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,768724,403746,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777639,412846,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,761099,395939,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,776939,412512,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,767057,401350,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,761385,396456,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,750237,384597,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,767821,402416,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,780390,416159,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777159,412416,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,780483,416153,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,792943,428836,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,769572,404573,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,763274,398025,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,792337,428576,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,787400,423409,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,790489,426028,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,763174,397968,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,756875,391678,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,767335,401759,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,776811,411370,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,785062,420423,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,775163,410495,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,775934,411543,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,787067,422153,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,783971,418905,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,771798,406556,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,761038,396135,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,768023,402427,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,771038,405850,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,764934,399686,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,756671,391152,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,774724,409724,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,786648,421987,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,756900,391331,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,782262,417656,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,763571,398130,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,769790,404517,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,799729,436419,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,757602,392195,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,786827,422052,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,769898,405162,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777177,412260,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,774783,409662,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,763714,398409,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,765517,400478,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,772804,407992,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,758009,392763,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,774009,409282,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,753156,387709,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,775319,410454,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,791020,426525,N/A,N/A,0
+Drunk Shell Sort,int,50000,sorted_66%,8,777315,411365,N/A,N/A,0

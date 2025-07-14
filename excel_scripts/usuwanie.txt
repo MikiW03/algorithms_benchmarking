@@ -1,0 +1,14 @@
+Sub UsunArkuszeTechniczne()
+    Dim ws As Worksheet
+    Application.DisplayAlerts = False
+
+    For Each ws In ThisWorkbook.Worksheets
+        If Left(ws.Name, 1) = "_" Then
+            ws.Delete
+        End If
+    Next ws
+
+    Application.DisplayAlerts = True
+    MsgBox "Usunięto wszystkie arkusze zaczynające się od '_'.", vbInformation
+End Sub
+

@@ -1,0 +1,501 @@
+Algorithm,DataType,Size,Distribution,Time,Comparisons,Swaps,Pivot,Gaps,DrunkLevel
+Quick Sort,int,10000,random,1,159834,86892,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152687,83512,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158238,83068,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163486,102992,First element,N/A,N/A
+Quick Sort,int,10000,random,1,167572,96659,First element,N/A,N/A
+Quick Sort,int,10000,random,1,147376,82703,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154795,89159,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151394,82485,First element,N/A,N/A
+Quick Sort,int,10000,random,1,150589,85965,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152863,86015,First element,N/A,N/A
+Quick Sort,int,10000,random,1,153513,90242,First element,N/A,N/A
+Quick Sort,int,10000,random,1,157456,87760,First element,N/A,N/A
+Quick Sort,int,10000,random,1,167976,100712,First element,N/A,N/A
+Quick Sort,int,10000,random,1,156591,89630,First element,N/A,N/A
+Quick Sort,int,10000,random,1,156495,89789,First element,N/A,N/A
+Quick Sort,int,10000,random,1,150976,83377,First element,N/A,N/A
+Quick Sort,int,10000,random,1,153067,82686,First element,N/A,N/A
+Quick Sort,int,10000,random,1,148289,88890,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163478,94898,First element,N/A,N/A
+Quick Sort,int,10000,random,1,164774,100697,First element,N/A,N/A
+Quick Sort,int,10000,random,1,156458,87711,First element,N/A,N/A
+Quick Sort,int,10000,random,1,161335,101980,First element,N/A,N/A
+Quick Sort,int,10000,random,1,169751,97845,First element,N/A,N/A
+Quick Sort,int,10000,random,1,150999,93175,First element,N/A,N/A
+Quick Sort,int,10000,random,1,149667,89590,First element,N/A,N/A
+Quick Sort,int,10000,random,1,155620,86982,First element,N/A,N/A
+Quick Sort,int,10000,random,1,167372,97484,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158866,99084,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151684,87301,First element,N/A,N/A
+Quick Sort,int,10000,random,1,162117,91312,First element,N/A,N/A
+Quick Sort,int,10000,random,1,169438,102955,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154006,86154,First element,N/A,N/A
+Quick Sort,int,10000,random,1,157530,83905,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154620,88658,First element,N/A,N/A
+Quick Sort,int,10000,random,1,159630,91934,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151031,81902,First element,N/A,N/A
+Quick Sort,int,10000,random,1,149916,86671,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154750,88367,First element,N/A,N/A
+Quick Sort,int,10000,random,1,157666,95848,First element,N/A,N/A
+Quick Sort,int,10000,random,1,161492,90172,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158490,91525,First element,N/A,N/A
+Quick Sort,int,10000,random,1,146847,92528,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163119,96517,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163347,85121,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151790,95660,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163038,86029,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163457,81916,First element,N/A,N/A
+Quick Sort,int,10000,random,1,153156,83738,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154374,89018,First element,N/A,N/A
+Quick Sort,int,10000,random,1,141957,86291,First element,N/A,N/A
+Quick Sort,int,10000,random,1,156838,91397,First element,N/A,N/A
+Quick Sort,int,10000,random,1,153488,84559,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152444,89408,First element,N/A,N/A
+Quick Sort,int,10000,random,1,167655,101313,First element,N/A,N/A
+Quick Sort,int,10000,random,1,144760,84679,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151991,95777,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151261,82031,First element,N/A,N/A
+Quick Sort,int,10000,random,1,162040,97391,First element,N/A,N/A
+Quick Sort,int,10000,random,1,156416,92011,First element,N/A,N/A
+Quick Sort,int,10000,random,1,169173,84242,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158024,93102,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163008,92640,First element,N/A,N/A
+Quick Sort,int,10000,random,1,157427,94625,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151550,92374,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152488,95188,First element,N/A,N/A
+Quick Sort,int,10000,random,1,159082,92919,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154503,88099,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152965,95552,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163964,101362,First element,N/A,N/A
+Quick Sort,int,10000,random,1,153430,95745,First element,N/A,N/A
+Quick Sort,int,10000,random,1,148372,94224,First element,N/A,N/A
+Quick Sort,int,10000,random,1,161388,89501,First element,N/A,N/A
+Quick Sort,int,10000,random,1,168917,91248,First element,N/A,N/A
+Quick Sort,int,10000,random,1,155269,92979,First element,N/A,N/A
+Quick Sort,int,10000,random,1,155605,102668,First element,N/A,N/A
+Quick Sort,int,10000,random,1,147761,88162,First element,N/A,N/A
+Quick Sort,int,10000,random,1,165358,99386,First element,N/A,N/A
+Quick Sort,int,10000,random,1,155747,86256,First element,N/A,N/A
+Quick Sort,int,10000,random,1,154839,91776,First element,N/A,N/A
+Quick Sort,int,10000,random,1,157020,91896,First element,N/A,N/A
+Quick Sort,int,10000,random,1,157277,93238,First element,N/A,N/A
+Quick Sort,int,10000,random,1,162932,100880,First element,N/A,N/A
+Quick Sort,int,10000,random,1,162582,95475,First element,N/A,N/A
+Quick Sort,int,10000,random,1,155100,92421,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152867,90071,First element,N/A,N/A
+Quick Sort,int,10000,random,1,161412,88537,First element,N/A,N/A
+Quick Sort,int,10000,random,1,147401,87380,First element,N/A,N/A
+Quick Sort,int,10000,random,1,162071,87561,First element,N/A,N/A
+Quick Sort,int,10000,random,1,184340,107157,First element,N/A,N/A
+Quick Sort,int,10000,random,1,163586,102622,First element,N/A,N/A
+Quick Sort,int,10000,random,1,152845,87087,First element,N/A,N/A
+Quick Sort,int,10000,random,1,156732,87692,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158004,94481,First element,N/A,N/A
+Quick Sort,int,10000,random,1,147777,89840,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158220,100715,First element,N/A,N/A
+Quick Sort,int,10000,random,1,158500,97640,First element,N/A,N/A
+Quick Sort,int,10000,random,1,151265,87179,First element,N/A,N/A
+Quick Sort,int,10000,random,1,153604,83406,First element,N/A,N/A
+Quick Sort,int,10000,random,1,175568,112228,First element,N/A,N/A
+Quick Sort,int,10000,random,1,149404,87934,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,194,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,190,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,194,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,193,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,194,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,194,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,194,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,192,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted ascending,191,49995000,19998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,337,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49986374,25015682,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,342,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,342,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,345,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49986966,25015978,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,342,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,343,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,343,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,342,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,339,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,341,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,340,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted descending,338,49995000,25019998,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27653359,66147,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27654016,66393,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27657626,62669,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649992,66636,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648532,69856,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649236,66765,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27655716,62431,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27658140,62911,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648059,61339,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27653833,67905,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27647607,66949,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27649276,57813,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27652747,64746,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27653232,59998,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27653437,63160,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649927,66409,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27644204,61265,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27653136,64351,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648935,63911,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650202,63379,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652491,67802,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27657489,73227,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652822,65317,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27648457,63001,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650697,65050,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652266,65614,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27660564,75749,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27651955,61259,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27657618,64770,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27653936,66049,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27647001,60696,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27646912,61203,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652663,61054,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27647815,61486,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27653020,73052,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648749,67224,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27662517,72406,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27655339,65574,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652825,68317,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27657311,64009,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652420,67223,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27646355,58417,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650295,61743,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27659478,63850,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650048,59172,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649759,66341,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27652800,64356,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649988,64770,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648840,61153,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27656220,58003,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652344,63177,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27644213,57888,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27657583,70488,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27653045,64548,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27647294,59889,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648020,65441,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27651249,59542,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27650948,60869,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27655900,60978,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27657087,63305,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27647678,65556,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27660692,58852,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27656844,67818,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27648477,63375,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27656538,73289,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27645434,60065,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27646323,62416,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650543,63391,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27655986,65133,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27648726,62302,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27655382,73106,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27656308,74006,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27655279,63465,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652350,63765,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27653844,66643,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27650616,60274,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650505,61424,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652792,70022,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27654374,68176,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649540,63231,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27652962,58550,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27654272,64341,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649690,64408,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27656835,62377,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649153,65843,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27653947,66918,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27652047,64644,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27645970,62432,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,109,27656179,65936,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27650087,67453,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27647583,61708,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649672,59403,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,105,27666708,76814,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648646,57855,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27647423,64817,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648197,60699,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27649328,62197,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,108,27656964,59480,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,106,27647431,64149,First element,N/A,N/A
+Quick Sort,int,10000,sorted_33%,107,27648262,61786,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263635,41542,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44264256,40858,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260608,39274,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,172,44264219,37465,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261199,40167,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262968,43024,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263118,41501,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259826,40301,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44259764,39769,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44267355,43677,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44266421,42469,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261737,39636,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44264103,42028,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261627,40319,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44261858,41588,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261604,43254,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44262258,40320,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259424,39613,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44260882,39412,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44262287,41358,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263428,41247,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44264365,37316,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44263388,37684,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259835,37806,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44261067,40522,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44269897,46011,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261168,39325,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44259850,39465,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44260919,41937,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44261416,37837,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259869,38851,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259932,39982,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262367,39573,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44266087,41982,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44262718,38719,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44265475,41632,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44259321,36496,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44264056,40288,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259606,37344,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44261715,38979,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44262312,40882,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44266482,46083,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44266541,39828,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260961,40191,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44265126,40108,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44260393,39098,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44264243,40302,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44260106,37516,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44263117,40170,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263476,41044,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44261780,39157,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260508,40053,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260373,37499,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44260314,39015,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44260099,40105,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44258591,38283,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44260899,39010,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263962,43606,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260521,41223,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44262413,38127,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44262359,39839,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44265465,42715,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260130,37725,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44260503,39386,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44263546,40507,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44258419,37162,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259777,42093,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262240,38667,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44262118,41536,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44262928,40459,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44264331,41196,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262122,39905,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44264947,43998,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263775,41774,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44261277,39397,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261765,40196,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44266536,41070,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262891,44127,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44261706,38754,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44263305,41396,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261033,39674,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44267362,48021,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262483,38791,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263127,38020,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44262368,44213,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44263383,40489,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259245,37455,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44261158,40155,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44265243,46498,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44263355,40043,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44264458,40755,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,169,44265826,43225,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44260064,37527,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44264401,40752,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44261105,40680,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,171,44262236,38781,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,174,44264232,40158,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44259887,38565,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,172,44262285,39468,First element,N/A,N/A
+Quick Sort,int,10000,sorted_66%,170,44264104,41664,First element,N/A,N/A
